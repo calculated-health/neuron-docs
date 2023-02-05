@@ -1,0 +1,28 @@
+# Job Parameters
+
+Job parameters are passed in as application CLI arguments to the Spark job or through ENV variables.  They do not go on the YAML config file. 
+
+## CLI Params
+
+| Name | Type | Default | Required | Description |
+| --- | --- | --- | --- | --- |
+| `-env` or `--environment` | `enum` | `local` | Yes | The runtime environment.  Options include: `local`, `azure_databricks`, `azure_synapse`. |
+| `-cf` or `—config-file` | `string` |  | Yes | The storage path that points to the YAML config file.  NOTE: If reading from Azure Storage, make sure to add the ENV param below. |
+
+### Example
+
+```bash
+-env azure_databricks -cf https://<mystorageaccount>.blob.core.windows.net/config/neuron_v1.yml
+```
+
+## ENV Params
+
+| Name | Type | Default | Required | Description |
+| --- | --- | --- | --- | --- |
+| `ENV_AZURE_STORAGE_ACCESS_KEY` | `string` |  | Yes, if your config file is hosted in an Azure Storage account. | The Azure storage account access key.  [Learn More](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?tabs=azure-portal#regenerate-access-keys) |
+
+### Example
+
+```bash
+ENV_AZURE_STORAGE_ACCESS_KEY=AWnQd+hu2/e-KlyJ2fORwqzwSBqTFd8lmG0aJA0BckdsVU8v3L9qO0V38P3/7G3eRfSDDsdmJYzd+ASty5j5Rw==
+```

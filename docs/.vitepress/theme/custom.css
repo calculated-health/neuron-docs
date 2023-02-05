@@ -1,0 +1,11 @@
+/* .vitepress/theme/custom.css */
+:root {
+    --vp-c-brand: #00D2DB;
+    --vp-c-brand-light: red;
+}
+
+.dark {
+    /* --vp-c-bg: #00153a; */
+    /* --vp-c-bg-alt: #00153a; */
+    --vp-custom-block-tip-text: #00D2DB;
+  }
