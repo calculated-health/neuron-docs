@@ -1,6 +1,11 @@
 # Job Parameters
 
-Job parameters are passed in as application CLI arguments to the Spark job or through ENV variables.  They do not go on the YAML config file. 
+Job parameters are passed in as application CLI arguments to the Spark job or through ENV variables.     
+
+::: warning NOTE
+These params DO NOT live in the `.yaml` config file. They are used to configure how
+the application will read the config file from its corresponding storage service. 
+:::
 
 ## CLI Params
 
