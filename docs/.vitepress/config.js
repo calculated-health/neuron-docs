@@ -1,4 +1,7 @@
 export default {
+	title: 'Neuron',
+	description: 'A population health data engine',
+	base: '/neuron-docs/',
     themeConfig: {
         siteTitle: false,
         logo: {
