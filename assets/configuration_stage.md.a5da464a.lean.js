@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as d,a as o}from"./app.17669493.js";const g=JSON.parse('{"title":"Stage","description":"","frontmatter":{},"headers":[],"relativePath":"configuration/stage.md"}'),a={name:"configuration/stage.md"},n=o("",2),r=[n];function c(s,i,h,l,_,u){return d(),e("div",null,r)}const m=t(a,[["render",c]]);export{g as __pageData,m as default};

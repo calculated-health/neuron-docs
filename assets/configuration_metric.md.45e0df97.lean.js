@@ -1,1 +1,0 @@
-import{_ as t,c as e,o,a as d}from"./app.17669493.js";const p=JSON.parse('{"title":"Metric","description":"","frontmatter":{},"headers":[],"relativePath":"configuration/metric.md"}'),r={name:"configuration/metric.md"},c=d("",2),a=[c];function i(s,_,n,h,l,m){return o(),e("div",null,a)}const u=t(r,[["render",i]]);export{p as __pageData,u as default};
