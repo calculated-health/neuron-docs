@@ -5,14 +5,14 @@ readTime: 8 min read
 
 # Introduction
 
-> These Docs will help you get Neuron up-and-running quickly, guide you through advanced features, and explain the
+> These Docs will help you get Neuron up-and-running quickly, guide you through advanced features and explain the
 > core concepts that make Neuron so unique.
 
 ## What is Neuron?
 
 ::: tip Neuron
 
-A Neuron ([nur AAN](http://audio.pronouncekiwi.com/Salli/Neuron)) is an information messenger.\
+A Neuron ([nur AAN](http://audio.pronouncekiwi.com/Salli/Neuron)) is an information messenger in the brain.\
 They use electrical impulses and chemical signals to transmit information between different areas of the brain, and between the brain and the rest of the nervous system.
 
 :::
