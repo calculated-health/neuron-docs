@@ -8,7 +8,7 @@ Neuron authentication properties.
 
 | Name | Type | Default | Required | Description |
 | --- | --- | --- | --- | --- |
-| `service_url` | `string` |  | Yes | The Neuron service url that used for authentication. Ex: `https:portal.calculated.health` |
+| `service_url` | `string` |  | Yes | The Neuron service url that used for authentication. Ex: `https://portal.calculated.health` |
 | `service_key` | `string` |  | Yes | Neuron public service key. |
 | `service_secret` | `string` |  | Yes | Neuron private secret key. |
 | `subscription_key` | `string` |  | Yes | Neuron product subscription key |
