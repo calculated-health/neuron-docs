@@ -12,7 +12,7 @@
 | payment_date | `string` | Yes | 6 | Payment month for the report. | `YYYYMM` |
 | hospice | `string` | No | 1 | Indicator that the patient was in Hospice status. | `Y` or `N` |
 | lti_flag | `string` | No | 1 | Indicator that the patient has Part C Long Term Institutional Status | `Y` or `N` |
-| orec | `string` | No | 1 | Original Reason for Entitlement Code (OREC) | [See OREC Values](/data-model/inbound/ch_monthly_membership#orec-values) |
+| orec | `string` | No | 1 | Original Reason for Entitlement Code (OREC) | [See OREC Values](/data-model/inbound/ch_member_monthly#orec-values) |
 
 ## OREC Values
 

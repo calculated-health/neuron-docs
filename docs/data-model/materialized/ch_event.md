@@ -15,7 +15,7 @@
 | date_administered | `date` | Yes | 8 | The date the event was administered if it was a claim type. |  |
 | date_discharged | `date` | Yes | 8 | The date the event discharged or ended. |  |
 | code | `string` | Yes | 100 | Event code |  |
-| code_system | `string` | Yes | 100 | Event code system | [See Event Code Flag Values](/data-model/inbound/ch_encounter#diagnosis-flag-values) |
+| code_system | `string` | Yes | 100 | Event code system | [See Event Code Flag Values](/data-model/materialized/ch_event#event-code-system-values) |
 | value | `number` | No | 20 |  |  |
 | quantity | `number` | No | 20 |  |  |
 | frequency | `number` | No | 20 |  |  |
@@ -27,6 +27,19 @@
 | independent_laboratory | `boolean` | Yes | 1 | `true` or `false` |  |
 | procedure_status_ordered | `boolean` | Yes | 1 | `true` or `false` |  |
 | discharge_status_death | `boolean` | Yes | 1 | `true` or `false` |  |
+
+## Event Type Values
+
+| Value | Name |
+| --- | --- |
+| claim |  |
+| claim_pharmacy |  |
+| clinical_encounter |  |
+| clinical_diagnosis |  |
+| clinical_procedure |  |
+| clinical_observation |  |
+| clinical_observation |  |
+| lab |  |
 
 ## Event Code System Values
 
@@ -49,16 +62,3 @@
 | NDC |  |
 | CVX |  |
 | RXNORM |  |
-
-## Event Type Values
-
-| Value | Name |
-| --- | --- |
-| claim |  |
-| claim_pharmacy |  |
-| clinical_encounter |  |
-| clinical_diagnosis |  |
-| clinical_procedure |  |
-| clinical_observation |  |
-| clinical_observation |  |
-| lab |  |
