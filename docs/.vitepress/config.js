@@ -108,7 +108,7 @@ function sidebar() {
             collapsible: true,
             items: [
                 {
-					link: '/app/content',
+					link: '/data-model/inbound',
 					text: 'Inbound',
 					type: 'page',
 					items: [
@@ -167,7 +167,7 @@ function sidebar() {
 					],
 				},
                 {
-					link: '/app/content',
+					link: '/data-model/materialized',
 					text: 'Materialized',
 					type: 'page',
 					items: [
@@ -178,7 +178,7 @@ function sidebar() {
 					],
 				},
                 {
-					link: '/app/content',
+					link: '/data-model/outbound',
 					text: 'Outbound',
 					type: 'page',
 					items: [
@@ -193,7 +193,7 @@ function sidebar() {
 					],
 				},
                 {
-					link: '/app/content',
+					link: '/data-model/value-sets',
 					text: 'Value Sets',
 					type: 'page',
 					items: [
@@ -208,7 +208,7 @@ function sidebar() {
 					],
 				},
 				{
-					link: '/app/content',
+					link: '/data-model/meta',
 					text: 'Meta',
 					type: 'page',
 					items: [
