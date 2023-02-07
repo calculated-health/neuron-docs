@@ -1,3 +1,7 @@
+---
+next: 'Data Model - Inbound'
+---
+
 # Metric
 
 | Name | Type | Default | Required | Description |

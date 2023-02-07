@@ -9,6 +9,13 @@ the application will read the config file from its corresponding storage service
 
 ## CLI Params
 
+::: warning NOTE
+Neuron is capable of supporting more environments than the ones listed below. However, we have not 
+published them yet as we are still testing. We will continue to publish more environments
+in the future. If you are in need of a different environment sooner, [contact us](https://www.calculated.health/#contact-us) to see 
+if we can prioritize it for you. 
+:::
+
 | Name | Type | Default | Required | Description |
 | --- | --- | --- | --- | --- |
 | `-env` or `--environment` | `enum` | `local` | Yes | The runtime environment.  Options include: `local`, `azure_databricks`, `azure_synapse`. |
@@ -16,7 +23,7 @@ the application will read the config file from its corresponding storage service
 
 ### Example
 
-```bash
+```
 -env azure_databricks -cf https://<mystorageaccount>.blob.core.windows.net/config/neuron_v1.yml
 ```
 
