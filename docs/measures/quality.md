@@ -4,7 +4,7 @@ next: 'Jobs Overview'
 
 # Quality Health Measures
 
-The **Quality Health Measure** catalog contains over **80 measures** across **13 domains** and includes well over **100 metrics** that can be used to assess quality scores, actionable care gap insights and audit data for metric outcome understandings. 
+The **Quality Health Measure** catalog contains a variety of population health measures across **13 domains** and includes well over **100 metrics** that can be used to assess quality scores, actionable care gap insights and audit data for metric outcome understandings. 
 
 
 ## Access/Availability of Care
