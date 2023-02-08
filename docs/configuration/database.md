@@ -18,7 +18,7 @@ if we can prioritize it for you.
 | `username` | `string` |  | No | The database username. |
 | `password` | `string` |  | No | The database password. |
 | `schema` | `string` |  | No | The database schema. |
-| `warehouse` | `string` |  | No | The database warehouse.  Currently only used for the `snowflake` driver. |
+| `warehouse` | `string` |  | No | The database warehouse. Currently only used for the `snowflake` driver. |
 
 ## Example
 
