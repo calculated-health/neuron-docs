@@ -1,6 +1,6 @@
 # Storage
 
-The configuration used to connect services such Azure Storage, AWS S3 and GCP Storage. 
+Storage configuration used to connect services such Azure Storage, AWS S3 and GCP Storage. 
 
 ::: warning NOTE
 Neuron is capable of supporting more drivers than the ones listed below. However, we have not 

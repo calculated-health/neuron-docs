@@ -1,5 +1,8 @@
 # Stage
 
+Staging configuration used to load data from your storage into the database, such as `.csv` files that map into
+the **Inbound** data model along with **Value Sets** and **Meta** data models.
+
 | Name | Type | Default | Required | Description |
 | --- | --- | --- | --- | --- |
 | `inbound_path` | `string` |  | No | The inbound storage path that contains CSV files that map to the inbound data model.  Ex: `abfss://inbound@<mystorageaccount>.dfs.core.windows.net/<dirname>` |
