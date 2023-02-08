@@ -1,7 +1,6 @@
 # ch_lis_history
 
-> Low Income Subsidy (LIS) History
-> 
+Low Income Subsidy (LIS) History.
 
 ## Field Definitions
 

@@ -1,7 +1,6 @@
 # ch_monthly_membership
 
-> Monthly Membership Data File
-> 
+Monthly Membership Data File.
 
 ## Field Definitions
 

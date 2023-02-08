@@ -1,7 +1,6 @@
 # ch_claim_pharmacy
 
-> Pharmacy claims
-> 
+Pharmaceutical claims.
 
 ## Field Definitions
 

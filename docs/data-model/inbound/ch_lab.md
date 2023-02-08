@@ -1,7 +1,6 @@
 # ch_lab
 
-> Lab Results
-> 
+Labs.
 
 ## Field Definitions
 

@@ -1,7 +1,6 @@
 # ch_provider_specialty
 
-> A unique list of providers with their corresponding specialties.
-> 
+A unique list of providers with their corresponding specialties.
 
 ## Field Definitions
 

@@ -1,7 +1,6 @@
 # ch_coverage
 
-> Enrollment periods in which each patient was covered by their insurance payer.
-> 
+Enrollment periods in which each patient was covered by their insurance payer.
 
 ## Field Definitions
 

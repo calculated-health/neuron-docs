@@ -1,8 +1,7 @@
 # ch_claim
 
-> The medical claim contains a variety of codes that indicate clinical diagnosis and procedures on the patient from
-a health care billing perspective.
-> 
+The medical claim contains a variety of codes that indicate clinical diagnosis and procedures on the patient from
+a health care billing perspective. 
 
 ## Field Definitions
 
