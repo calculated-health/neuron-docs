@@ -1,5 +1,8 @@
 # Measure
 
+Measure configuration used for running measure services such as the relevant **Measure Year** and the set of **Measure Keys** 
+associated to the measures you want to run.
+
 | Name | Type | Default | Required | Description |
 | --- | --- | --- | --- | --- |
 | `measure_year` | `number` |  | Yes | The contextual measure year for your set of measures. Ex: `2022` |
