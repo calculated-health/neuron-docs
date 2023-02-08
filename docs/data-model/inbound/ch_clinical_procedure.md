@@ -1,7 +1,6 @@
 # ch_clinical_procedure
 
-> Clinical procedures
-> 
+Clinical procedures.
 
 ## Field Definitions
 

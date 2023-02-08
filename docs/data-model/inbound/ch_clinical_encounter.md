@@ -1,7 +1,6 @@
 # ch_clinical_encounter
 
-> The clinical encounter with a provider.
-> 
+The clinical encounter with a provider.
 
 ## Field Definitions
 

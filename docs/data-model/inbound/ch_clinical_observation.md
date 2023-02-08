@@ -1,7 +1,6 @@
 # ch_clinical_observation
 
-> Clinical observations
-> 
+Clinical observations.
 
 ## Field Definitions
 

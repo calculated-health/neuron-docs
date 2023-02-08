@@ -1,7 +1,6 @@
 # ch_clinical_pharmacy
 
-> Clinical pharmacy prescriptions
-> 
+Clinical pharmacy prescriptions. 
 
 ## Field Definitions
 

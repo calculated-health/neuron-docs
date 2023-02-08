@@ -1,7 +1,6 @@
 # ch_clinical_diagnosis
 
-> Clinical diagnosis
-> 
+Clinical diagnosis.
 
 ## Field Definitions
 
