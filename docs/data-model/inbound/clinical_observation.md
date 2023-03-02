@@ -1,6 +1,6 @@
-# ch_clinical_observation
+# Clinical Observation
 
-Clinical observations.
+Observation information aggregated from provider system sources (e.g. EHRs, registries, or other supplemental data sources) which can be used to track critical observation activity at a patient-level, particularly those that do not make it in to the traditional claims workflow.
 
 ## Field Definitions
 

@@ -1,6 +1,6 @@
-# ch_monthly_membership
+# Monthly Membership
 
-Monthly Membership Data File.
+Contains subsidy history status/segments for each patient and span dates.
 
 ## Field Definitions
 

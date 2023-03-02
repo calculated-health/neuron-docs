@@ -1,4 +1,4 @@
-# ch_event
+# Event
 
 Events are the core elements within the data model. Most of Neurons logic runs against this table to measure population health.  
 - Aggregated result set of the **Inbound Data Model** such as **Claims**, **Encounters**, **Pharmaceuticals**, **Labs** and others in order to improve performance along with quality assurance. [See Event Types](/data-model/materialized/ch_event#event-types)

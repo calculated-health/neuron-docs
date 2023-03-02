@@ -1,4 +1,4 @@
-# ch_meta_measure
+# Meta Measure
 
 ## Field Definitions
 

@@ -1,6 +1,6 @@
-# ch_coverage
+# Coverage
 
-Enrollment periods in which each patient was covered by their insurance payer.
+Coverage (i.e., enrollment) segments in which each patient was covered by an insurance payer or other coverage program, along with benefit information, and basic contract identification information.
 
 ## Field Definitions
 

@@ -123,56 +123,56 @@ function sidebar() {
 					type: 'page',
 					items: [
 						{
-							link: '/data-model/inbound/ch_patient',
-							text: 'ch_patient',
+							link: '/data-model/inbound/patient',
+							text: 'Patient',
 						},
                         {
-							link: '/data-model/inbound/ch_coverage',
-							text: 'ch_coverage',
+							link: '/data-model/inbound/coverage',
+							text: 'Coverage',
 						},
 						{
-							link: '/data-model/inbound/ch_provider_specialty',
-							text: 'ch_provider_specialty',
+							link: '/data-model/inbound/provider_specialty',
+							text: 'Provider Specialty',
 						},
 						{
-							link: '/data-model/inbound/ch_claim',
-							text: 'ch_claim',
+							link: '/data-model/inbound/claim',
+							text: 'Claim',
 						},
 						{
-							link: '/data-model/inbound/ch_claim_pharmacy',
-							text: 'ch_claim_pharmacy',
+							link: '/data-model/inbound/claim_pharmacy',
+							text: 'Claim Pharmacy',
 						},
 						{
-							link: '/data-model/inbound/ch_clinical_encounter',
-							text: 'ch_clinical_encounter',
+							link: '/data-model/inbound/clinical_encounter',
+							text: 'Clinical Encounter',
 						},
                         {
-							link: '/data-model/inbound/ch_clinical_pharmacy',
-							text: 'ch_clinical_pharmacy',
+							link: '/data-model/inbound/clinical_pharmacy',
+							text: 'Clinical Pharmacy',
 						},
                         {
-							link: '/data-model/inbound/ch_clinical_diagnosis',
-							text: 'ch_clinical_diagnosis',
+							link: '/data-model/inbound/clinical_diagnosis',
+							text: 'Clinical Diagnosis',
 						},
                         {
-							link: '/data-model/inbound/ch_clinical_procedure',
-							text: 'ch_clinical_procedure',
+							link: '/data-model/inbound/clinical_procedure',
+							text: 'Clinical Procedure',
 						},
 						{
-							link: '/data-model/inbound/ch_clinical_observation',
-							text: 'ch_clinical_observation',
+							link: '/data-model/inbound/clinical_observation',
+							text: 'Clinical Observation',
 						},
                         {
-							link: '/data-model/inbound/ch_lab',
-							text: 'ch_lab',
+							link: '/data-model/inbound/lab',
+							text: 'Lab',
 						},
                         {
-							link: '/data-model/inbound/ch_member_monthly',
-							text: 'ch_member_monthly',
+							link: '/data-model/inbound/monthly_membership',
+							text: 'Monthly Membership',
 						},
                         {
-							link: '/data-model/inbound/ch_lis_history',
-							text: 'ch_lis_history',
+							link: '/data-model/inbound/subsidy',
+							text: 'Subsidy',
 						},
 					],
 				},
@@ -182,8 +182,8 @@ function sidebar() {
 					type: 'page',
 					items: [
 						{
-							link: '/data-model/materialized/ch_event',
-							text: 'ch_event',
+							link: '/data-model/materialized/event',
+							text: 'Event',
 						}
 					],
 				},
@@ -193,12 +193,12 @@ function sidebar() {
 					type: 'page',
 					items: [
 						{
-							link: '/data-model/outbound/ch_metric',
-							text: 'ch_metric',
+							link: '/data-model/outbound/metric',
+							text: 'Metric',
 						},
 						{
-							link: '/data-model/outbound/ch_metric_detail',
-							text: 'ch_metric_detail',
+							link: '/data-model/outbound/metric_detail',
+							text: 'Metric Detail',
 						},
 					],
 				},
@@ -208,12 +208,12 @@ function sidebar() {
 					type: 'page',
 					items: [
 						{
-							link: '/data-model/mappings/ch_value_set',
-							text: 'ch_value_set',
+							link: '/data-model/mappings/value_set',
+							text: 'Value Set',
 						},
                         {
-							link: '/data-model/mappings/ch_value_set_medication',
-							text: 'ch_value_set_medication',
+							link: '/data-model/mappings/value_set_medication',
+							text: 'Value Set Medication',
 						}
 					],
 				},
@@ -223,24 +223,24 @@ function sidebar() {
 					type: 'page',
 					items: [
 						{
-							link: '/data-model/meta/ch_meta_measure',
-							text: 'ch_meta_measure',
+							link: '/data-model/meta/meta_measure',
+							text: 'Meta Measure',
 						},
 						{
-							link: '/data-model/meta/ch_meta_category',
-							text: 'ch_meta_category',
+							link: '/data-model/meta/meta_category',
+							text: 'Meta Category',
 						},
 						{
-							link: '/data-model/meta/ch_meta_metric',
-							text: 'ch_meta_metric',
+							link: '/data-model/meta/meta_metric',
+							text: 'Meta Metric',
 						},
 						{
-							link: '/data-model/meta/ch_meta_value_set_measure',
-							text: 'ch_meta_value_set_measure',
+							link: '/data-model/meta/meta_value_set_measure',
+							text: 'Meta Value Set Measure',
 						},
 						{
-							link: '/data-model/meta/ch_meta_value_set_medication_measure',
-							text: 'ch_meta_value_set_medication_measure',
+							link: '/data-model/meta/meta_value_set_medication_measure',
+							text: 'Meta Value Set Medication Measure',
 						},
 					],
 				},

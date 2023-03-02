@@ -1,6 +1,6 @@
-# ch_lab
+# Lab
 
-Labs.
+Lab information aggregated from provider system sources (e.g. National, Regional, and Provider-based lab functions, EHRs, registries, or other supplemental data sources) which can be used to track critical lab activity at a patient-level, particularly those that do not make it in to the traditional claims workflow.
 
 ## Field Definitions
 

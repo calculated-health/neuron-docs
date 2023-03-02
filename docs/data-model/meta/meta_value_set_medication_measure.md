@@ -1,4 +1,4 @@
-# ch_meta_value_set_measure
+# Meta Value Set Medication Measure
 
 ## Field Definitions
 

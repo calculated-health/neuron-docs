@@ -1,6 +1,6 @@
-# ch_lis_history
+# Subsidy
 
-Low Income Subsidy (LIS) History.
+Subsidy history status/segments for each patient and span dates.
 
 ## Field Definitions
 

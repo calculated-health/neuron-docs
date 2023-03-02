@@ -1,4 +1,4 @@
-# ch_metric
+# Metric
 
 - 1 table per measure (`ch_metric_<measure_key>`).  Example: `ch_metric_bcs`.
 - The aggregated metrics table that is derived from the `ch_metric_detail` table and used to calculated the rate / quality of care.

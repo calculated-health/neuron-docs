@@ -1,6 +1,6 @@
-# ch_clinical_encounter
+# Clinical Encounter
 
-The clinical encounter with a provider.
+Encounter information aggregated from provider system sources (e.g. EHRs, registries, or other supplemental data sources) which can be used to track critical encounter activity at a patient-level, particularly those that do not make it in to the traditional claims workflow.
 
 ## Field Definitions
 

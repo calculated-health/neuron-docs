@@ -1,6 +1,6 @@
-# ch_claim_pharmacy
+# Claim Pharmacy
 
-Pharmaceutical claims.
+Claims table that contains a variety of codes that indicate clinical diagnosis and procedures on the patient.
 
 ## Field Definitions
 

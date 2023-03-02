@@ -1,4 +1,4 @@
-# ch_meta_category
+# Meta Category
 
 ## Field Definitions
 
