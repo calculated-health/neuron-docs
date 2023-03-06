@@ -11,9 +11,9 @@ Encounter information aggregated from provider system sources (e.g. EHRs, regist
 | start_date | `date` | No | 8 | The start date of the service. | `YYYYMMDD` |
 | end_date | `date` | Yes | 8 | The end date of the service. | `YYYYMMDD` |
 | activity_code | `date` | Yes | 20 | The encounter activity code. |  |
-| activity_code_system | `string` | Yes | 1 | The encounter activity code system. | [See Activity Code System Values](/data-model/inbound/ch_clinical_encounter#activity-code-system-values) |
+| activity_code_system | `string` | Yes | 1 | The encounter activity code system. | [See Activity Code System Values](/data-model/inbound/clinical_encounter#activity-code-system-values) |
 | diagnosis_code | `string` | Yes | 2 | Code indicating the type of discharge. |  |
-| diagnosis_code_system | `string` | Yes | 5 |  | [See Diagnosis Code System Values](/data-model/inbound/ch_clinical_encounter#diagnosis-code-system-values) |
+| diagnosis_code_system | `string` | Yes | 5 |  | [See Diagnosis Code System Values](/data-model/inbound/clinical_encounter#diagnosis-code-system-values) |
 | status | `string` | Yes | 2 | Planned or Completed | `1` - Planned, `2` - Completed |
 
 ## Activity Code System Values
