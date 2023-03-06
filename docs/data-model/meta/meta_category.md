@@ -1,4 +1,6 @@
-# ch_meta_category
+# Meta Category
+
+Maps a `category_key` to a `category_name`.
 
 ## Field Definitions
 

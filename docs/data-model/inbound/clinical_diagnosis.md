@@ -1,6 +1,6 @@
-# ch_clinical_diagnosis
+# Clinical Diagnosis
 
-Clinical diagnosis.
+Pertinent diagnoses aggregated from provider system sources (e.g. EHRs, registries, or other supplemental data sources) which can be used to track critical diagnosis at a patient-level.
 
 ## Field Definitions
 

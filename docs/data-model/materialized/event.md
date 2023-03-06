@@ -1,6 +1,6 @@
-# ch_event
+# Event
 
-Events are the core elements within the data model. Most of Neurons logic runs against this table to measure population health.  
+Events are the core elements within the **Neuron Data Model**. Most of Neurons logic runs against this table to measure population health.  
 - Aggregated result set of the **Inbound Data Model** such as **Claims**, **Encounters**, **Pharmaceuticals**, **Labs** and others in order to improve performance along with quality assurance. [See Event Types](/data-model/materialized/ch_event#event-types)
 - Focuses on the time-series events between a given **Patient** and **Provider**, along with the relevant **Diagnosis**, **Procedures** and other clinical properties than can occur in any type health care visit.
 
@@ -31,35 +31,35 @@ Events are the core elements within the data model. Most of Neurons logic runs a
 
 ## Event Types
 
-| Value | Name |
-| --- | --- |
-| claim |  |
-| claim_pharmacy |  |
-| clinical_encounter |  |
-| clinical_diagnosis |  |
-| clinical_procedure |  |
-| clinical_observation |  |
-| clinical_observation |  |
-| lab |  |
+| Value |
+| --- |
+| claim | 
+| claim_pharmacy | 
+| clinical_encounter | 
+| clinical_diagnosis | 
+| clinical_procedure |
+| clinical_observation |
+| clinical_observation |
+| lab |
 
 ## Event Code Systems
 
-| Value | Name |
-| --- | --- |
-| CPT | |
-| Modifier |  |
-| CPT-CAT-II |  |
-| HCPCS |  |
-| UBTOB |  |
-| UBREV |  |
-| POS |  |
-| ICD10CM |  |
-| ICD9CM |  |
-| ICD10PCS |  |
-| ICD9PCS |  |
-| CLAIM_STATUS |  |
-| DISCHARGE_STATUS |  |
-| SNOMED CT US Edition |  |
-| NDC |  |
-| CVX |  |
-| RXNORM |  |
+| Value |
+| --- |
+| CPT |
+| Modifier |
+| CPT-CAT-II |
+| HCPCS |
+| UBTOB |
+| UBREV |
+| POS |
+| ICD10CM |
+| ICD9CM |
+| ICD10PCS |
+| ICD9PCS |
+| CLAIM_STATUS |
+| DISCHARGE_STATUS |
+| SNOMED CT US Edition |
+| NDC |
+| CVX |
+| RXNORM |

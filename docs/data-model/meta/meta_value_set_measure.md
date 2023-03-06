@@ -1,4 +1,6 @@
-# ch_meta_value_set_medication_measure
+# Meta Value Set Measure
+
+Maps a `measure_key` to a `Value Set`.
 
 ## Field Definitions
 

@@ -1,4 +1,8 @@
-# ch_value_set
+# Value Set
+
+Mapping entities that relate to corresponding population health event codes such as 
+`ICD10`, `CPT`, `LOINC` and much more. Visit the [VSAC Repo](https://vsac.nlm.nih.gov/) for more info 
+on all publicly available value sets.
 
 ## Field Definitions
 

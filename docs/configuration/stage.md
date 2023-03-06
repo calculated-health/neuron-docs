@@ -10,3 +10,8 @@ the **Inbound** data model along with **Value Sets** and **Meta** data models.
 | `value_set_path` | `string` |  | No | The storage path that points to all the value set CSV files that get loaded into the value set data model tables. |
 | `meta_path` | `string` |  | No | The storage path that points to all the meta CSV files that get loaded into the meta data model tables. |
 | `mode` | `enum` | `overwrite` | No  | `overwrite` - Will overwrite and fully refresh the inbound data model tables.  `append` - Will append data into the inbound data model tables.  |
+| `skip_inbound` | `boolean` | `false` | No  | Skip inbound staging.  |
+| `skip_value_set` | `boolean` | `false` | No  | Skip value set staging.  |
+| `skip_meta` | `boolean` | `false` | No  | Skip meta staging.  |
+| `skip_risk` | `boolean` | `false` | No  | Skip risk staging.  |
+| `skip_event` | `boolean` | `false` | No  | Skip event staging.  |

@@ -1,6 +1,6 @@
-# ch_clinical_pharmacy
+# Clinical Pharmacy
 
-Clinical pharmacy prescriptions. 
+Clinical pharmacy information aggregated from provider system or other sources (e.g. EHRs, registries, or other supplemental data sources) which can be used to track prescription activity at a patient-level, particularly those that do not make it in to the traditional Pharmacy Claims workflow.
 
 ## Field Definitions
 

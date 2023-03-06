@@ -1,7 +1,6 @@
-# ch_claim
+# Claim
 
-The medical claim contains a variety of codes that indicate clinical diagnosis and procedures on the patient from
-a health care billing perspective. 
+Medical claims file that contains a variety of codes that indicate clinical diagnosis and procedures on the patient.
 
 ## Field Definitions
 

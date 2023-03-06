@@ -1,4 +1,6 @@
-# ch_meta_metric
+# Meta Metric
+
+Maps a `metric_key` to a `metric_name`.
 
 ## Field Definitions
 

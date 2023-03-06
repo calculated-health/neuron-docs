@@ -1,6 +1,6 @@
-# ch_clinical_procedure
+# Clinical Procedure
 
-Clinical procedures.
+Procedure information aggregated from provider system or other sources (e.g. EHRs, registries, or other supplemental data sources) which can be used to track procedures at a patient-level, particularly those that do not make it in to the traditional claims workflow.
 
 ## Field Definitions
 

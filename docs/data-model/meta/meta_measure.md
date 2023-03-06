@@ -1,4 +1,6 @@
-# ch_meta_measure
+# Meta Measure
+
+Maps a `measure_key` to a `measure_name` and `measure_category`.
 
 ## Field Definitions
 

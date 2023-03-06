@@ -1,4 +1,7 @@
-# ch_value_set_medication
+# Value Set Medication
+
+Mapping entities that relate to corresponding population health pharmaceutical `NDC` codes.
+Visit the [VSAC Repo](https://vsac.nlm.nih.gov/) for more info on all publicly available value sets.
 
 ## Field Definitions
 

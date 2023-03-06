@@ -1,6 +1,6 @@
-# ch_monthly_membership
+# Monthly Membership
 
-Monthly Membership Data File.
+Contains critical enrollment and membership data for medicaid-based enrollment in the form of monthly enrollment segments/files.
 
 ## Field Definitions
 

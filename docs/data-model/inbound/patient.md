@@ -1,6 +1,6 @@
-# ch_patient
+# Patient
 
-Demographics and other administrative information about a patient receiving care and other health-related services.
+Basic demographics and other administrative information about a patient receiving care and other health-related services by the entity.
 
 - All patients must be unique.
 - All patients much exist within this table in order to be counted in any measure.

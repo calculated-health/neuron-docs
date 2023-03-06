@@ -1,6 +1,6 @@
-# ch_provider_specialty
+# Provider Specialty
 
-A unique list of providers with their corresponding specialties.
+Basic specialty information about providers who have or can perform services for patients.
 
 ## Field Definitions
 

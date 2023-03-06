@@ -1,4 +1,4 @@
-# ch_metric_detail
+# Metric Detail
 
 - Contains patient level detail for the measure.
 - Search on the `patient_key` column in order to get results for a single or group of patients.
@@ -24,4 +24,4 @@
 
 ## Audit Fields
 
-More to come.  Every `ch_metric_detail` table also contains a variety of audit columns that contain helpful information on how we arrived at the results.  These include data elements such as event keys, dates of service, performing provider specialities and much more.
+More to come.  Every `ch_metric_detail` table also contains a variety of audit columns that contain helpful information on how we arrived at the results.  These include data elements such as event keys, dates of service, performing provider specialties and much more.
