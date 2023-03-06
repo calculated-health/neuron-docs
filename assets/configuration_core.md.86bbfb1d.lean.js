@@ -1,1 +1,0 @@
-import{_ as t,c as e,o,a as d}from"./app.f673ca4d.js";const m=JSON.parse('{"title":"Core Configuration","description":"","frontmatter":{},"headers":[],"relativePath":"configuration/core.md"}'),r={name:"configuration/core.md"},a=d("",2),c=[a];function n(s,i,_,h,u,l){return o(),e("div",null,c)}const p=t(r,[["render",n]]);export{m as __pageData,p as default};

@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as d,a as o}from"./app.f673ca4d.js";const _=JSON.parse('{"title":"Stage","description":"","frontmatter":{},"headers":[],"relativePath":"configuration/stage.md"}'),a={name:"configuration/stage.md"},n=o("",3),s=[n];function r(c,i,h,l,g,u){return d(),e("div",null,s)}const m=t(a,[["render",r]]);export{_ as __pageData,m as default};
