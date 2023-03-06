@@ -20,6 +20,5 @@ Contains critical enrollment and membership data for medicaid-based enrollment i
 | 0 | Beneficiary insured due to age |
 | 1 | Beneficiary insured due to disability |
 | 2 | Beneficiary insured due to ESRD |
-| 3 | Beneficiary insured due to disability and current
-ESRD |
+| 3 | Beneficiary insured due to disability and current ESRD |
 | 9 | None of the above |
