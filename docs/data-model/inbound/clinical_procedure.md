@@ -10,7 +10,7 @@ Procedure information aggregated from provider system or other sources (e.g. EHR
 | start_date | `date` | No | 8 | Start date | `YYYYMMDD` |
 | end_date | `date` | No | 8 | End Date | `YYYYMMDD` |
 | code | `string` | No | 20 | The procedure code. |  |
-| code_system | `string` | No | 1 | The procedure code system. | [See Procedure Code System Values](/data-model/inbound/ch_clinical_procedure#procedure-code-system-values) |
+| code_system | `string` | No | 1 | The procedure code system. | [See Procedure Code System Values](/data-model/inbound/clinical_procedure#procedure-code-system-values) |
 | status | `string` | No | 3 | Ordered or Performed? | `INT` = Ordered, `EVN` = Performed |
 
 ## Procedure Code System Values

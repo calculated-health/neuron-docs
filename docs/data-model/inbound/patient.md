@@ -16,16 +16,16 @@ Basic demographics and other administrative information about a patient receivin
 | last_name | `string` | No | 100 | Patient last name |  |
 | middle_name_initial | `string` | Yes | 1 | Patient middle name initial |  |
 | family_subscriber_key | `string` | Yes | 100 | For use with family members who share a subscriber ID. |  |
-| race | `string` | No | 1 |  | [See Race Values](/data-model/inbound/ch_patient#race-values) |
-| ethnicity | `string` | No | 1 |  | [See Ethnicity Values](/data-model/inbound/ch_patient#ethnicity-values) |
-| race_data_source | `string` | No | 1 |  | [See Race Data Source Values](/data-model/inbound/ch_patient#race-data-source-values) |
-| ethnicity_data_source | `string` | No | 1 |  | [See Ethnicity Data Source Values](/data-model/inbound/ch_patient#ethnicity-data-source-values) |
-| spoken_language | `string` | No | 1 |  | [See Spoken Language Values](/data-model/inbound/ch_patient#spoken-language-values) |
-| spoken_language_source | `string` | No | 1 |  | [See Spoken Language Source Values](/data-model/inbound/ch_patient#spoken-language-source-values) |
-| written_language | `string` | No | 1 |  | [See Written Language Values](/data-model/inbound/ch_patient#written-language-values) |
-| written_language_source | `string` | No | 1 |  | [See Written Language Source Values](/data-model/inbound/ch_patient#written-language-source-values) |
-| other_language | `string` | No | 1 |  | [See Other Language Values](/data-model/inbound/ch_patient#other-lanague-values) |
-| other_language_source | `string` | No | 1 |  | [See Other Language Source Values](/data-model/inbound/ch_patient#other-lanague-source-values) |
+| race | `string` | No | 1 |  | [See Race Values](/data-model/inbound/patient#race-values) |
+| ethnicity | `string` | No | 1 |  | [See Ethnicity Values](/data-model/inbound/patient#ethnicity-values) |
+| race_data_source | `string` | No | 1 |  | [See Race Data Source Values](/data-model/inbound/patient#race-data-source-values) |
+| ethnicity_data_source | `string` | No | 1 |  | [See Ethnicity Data Source Values](/data-model/inbound/patient#ethnicity-data-source-values) |
+| spoken_language | `string` | No | 1 |  | [See Spoken Language Values](/data-model/inbound/patient#spoken-language-values) |
+| spoken_language_source | `string` | No | 1 |  | [See Spoken Language Source Values](/data-model/inbound/patient#spoken-language-source-values) |
+| written_language | `string` | No | 1 |  | [See Written Language Values](/data-model/inbound/patient#written-language-values) |
+| written_language_source | `string` | No | 1 |  | [See Written Language Source Values](/data-model/inbound/patient#written-language-source-values) |
+| other_language | `string` | No | 1 |  | [See Other Language Values](/data-model/inbound/patient#other-language-values) |
+| other_language_source | `string` | No | 1 |  | [See Other Language Source Values](/data-model/inbound/patient#other-lanague-source-values) |
 
 ## Race Values
 
