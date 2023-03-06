@@ -1,6 +1,6 @@
 # Monthly Membership
 
-Contains subsidy history status/segments for each patient and span dates.
+Contains critical enrollment and membership data for medicaid-based enrollment in the form of monthly enrollment segments/files.
 
 ## Field Definitions
 

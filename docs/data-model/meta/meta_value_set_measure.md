@@ -1,5 +1,7 @@
 # Meta Value Set Measure
 
+Maps a `measure_key` to a `Value Set`.
+
 ## Field Definitions
 
 | Name | Type | Nullable? | Length | Description | Values |

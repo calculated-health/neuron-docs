@@ -1,5 +1,7 @@
 # Meta Category
 
+Maps a `category_key` to a `category_name`.
+
 ## Field Definitions
 
 | Name | Type | Nullable? | Length | Description | Values |

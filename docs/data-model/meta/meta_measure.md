@@ -1,5 +1,7 @@
 # Meta Measure
 
+Maps a `measure_key` to a `measure_name` and `measure_category`.
+
 ## Field Definitions
 
 | Name | Type | Nullable? | Length | Description | Values |

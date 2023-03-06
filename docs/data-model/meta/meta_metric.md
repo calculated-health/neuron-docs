@@ -1,5 +1,7 @@
 # Meta Metric
 
+Maps a `metric_key` to a `metric_name`.
+
 ## Field Definitions
 
 | Name | Type | Nullable? | Length | Description | Values |

@@ -11,6 +11,21 @@ export default {
         ['meta', { name: "msapplication-TileColor", content: "#3a0839" }],
         ['meta', { name: "msapplication-config", content: "favicons/browserconfig.xml" }],
         ['meta', { name: "theme-color", content: "#ffffff" }],
+		[
+			'script',
+			{ async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-JL3HYS1S10'}
+		],
+		[
+			'script',
+			{},
+			`
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+		  
+			gtag('config', 'G-JL3HYS1S10');
+			`
+		]
     ],
     themeConfig: {
         siteTitle: false,

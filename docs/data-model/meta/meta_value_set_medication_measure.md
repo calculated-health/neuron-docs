@@ -1,5 +1,7 @@
 # Meta Value Set Medication Measure
 
+Maps a `measure_key` to a `Value Set Medication`.
+
 ## Field Definitions
 
 | Name | Type | Nullable? | Length | Description | Values |
